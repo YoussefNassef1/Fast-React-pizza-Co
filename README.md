@@ -23,7 +23,7 @@ The purpose of the "Fast React Pizza" application is to provide a fast, convenie
 1. Vite
 2. React
 3. Tailwind CSS
-4. Javascript
+4. Redux TK
 
 ## What I learned
 
