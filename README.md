@@ -1,6 +1,6 @@
 <h1 align="center">🍕 Fast React Pizza Co. 🍕</h1>
 
-### <h3 align="center"> [Live](https://fast-react-pizza-daniel.netlify.app)</h3>
+### <h3 align="center"> [Live](fast-react-pizza-lq53js5ee-youssefnassefs-projects.vercel.app)</h3>
 
 ## About The Project
 
